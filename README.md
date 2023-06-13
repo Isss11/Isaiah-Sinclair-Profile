@@ -6,5 +6,5 @@ I am a Computer Science student who has a passion for software development, math
 ### Other Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=react,docker,kubernetes,selenium,git,github,linux&theme=light)](https://skillicons.dev)
 ## Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=justxd22&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isss11&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isss11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
